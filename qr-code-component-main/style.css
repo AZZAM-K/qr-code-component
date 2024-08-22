@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+body {
+  display: grid;
+  place-items: center;
+  background: hsl(216, 15%, 48%);
+}
